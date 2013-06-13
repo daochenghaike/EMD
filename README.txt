@@ -1,0 +1,1 @@
+EMD£¨Empirical Mode Decomposition£©
